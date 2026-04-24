@@ -4,6 +4,6 @@ project(CP)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(CP
-        Problem0/Problem_Zero.cpp
-        Problem1/Problem_One.cpp
+        P1.cpp
+        P0.cpp
 )
